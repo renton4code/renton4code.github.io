@@ -1,0 +1,5 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target" : { "namespace": "android_app", "package_name": "com.glovodev.twatest",
+                   "sha256_cert_fingerprints": ["8D:EF:2B:2F:AA:0F:26:70:B1:74:93:E1:0E:F5:51:8C:38:6A:94:E0:4B:57:9A:44:F5:66:2F:CE:82:57:70:43"] }
+    }]
