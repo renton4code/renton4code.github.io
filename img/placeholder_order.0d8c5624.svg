@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="552" height="160" viewBox="0 0 552 160">
+    <defs>
+        <rect id="a" width="552" height="160" rx="4"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <use fill="#FFF" xlink:href="#a"/>
+        <rect width="551" height="159" x=".5" y=".5" stroke="#F3F3F3" rx="4"/>
+        <rect width="520" height="16" x="16" y="52" fill="#F3F3F3" rx="8"/>
+        <rect width="520" height="16" x="16" y="76" fill="#F3F3F3" rx="8"/>
+        <rect width="520" height="16" x="16" y="100" fill="#F3F3F3" rx="8"/>
+        <rect width="320" height="16" x="16" y="124" fill="#F3F3F3" rx="8"/>
+        <rect width="110" height="16" x="16" y="20" fill="#F3F3F3" rx="8"/>
+        <rect width="110" height="16" x="221" y="20" fill="#F3F3F3" rx="8"/>
+        <rect width="110" height="16" x="426" y="20" fill="#F3F3F3" rx="8"/>
+    </g>
+</svg>
